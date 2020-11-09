@@ -1,0 +1,37 @@
+
+body {
+  background-color:paleturquoise;
+  margin:20px 20px 20px 20px;
+}
+
+h1 {
+  font-family: “Courier New”, Courier, monospace;
+  text-align: center;
+  color: darkmagenta;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: mediumorchid;
+}
+
+p {
+  margin: 25px 25px 25px 25px;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  color: midnightblue;
+}
+
+ul {
+  margin: 25px 25px 25px 25px;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  color: orchid;
+}
+
+ol {
+  margin: 25px 25px 25px 25px;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  color: darkred;
+}
